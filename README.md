@@ -74,12 +74,4 @@ then run the command at db.json path
 json-server --watch db.json --port <Any Port Number>
 ```
 
-## Contribution
-
-We welcome contributions! If you'd like to contribute to React-News-App, please follow our [Contribution Guidelines](https://github.com/SubramanyaKS/React-News-App/blob/main/CONTRIBUTING.md).
-
-
-If you like the project 🌟 the repository.
-
-Thank you with ❤ Subramanya KS
 # Raftlabs_Assignement
