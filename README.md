@@ -31,7 +31,7 @@ This is a React JS-based online news web app that utilizes the NewsAPI.org API. 
 1. Fork the Project and clone Repository using git clone
 
 ```sh
-git clone https://github.com/SubramanyaKS/React-News-App.git
+git clone  xyz
 ```
 
 2.  Install all dependency in package.json
